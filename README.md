@@ -21,8 +21,7 @@ Contact me via email : 📬aminsanaiefar@gmial.com<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<!--### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AminSanaiefar&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AminSanaiefar)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AminSanaiefar&icon=0&color=1)](https://visitcount.itsvg.in)

@@ -5,8 +5,8 @@ I'm working on my resume for making it better!<br>
 I'm currently learning Django and DRF frameworks.<br>
 <br>
 i Love to learn new stuff and new technologies.<br>
-Inrested in Music🎵 & Space🌌<br>
 Contact me via email : 📬aminsanaiefar@gmial.com<br>
+Inrested in Music🎵 & Space🌌<br>
 <h3>Treat others the way you would like to be treated.<h3><br>
 
 

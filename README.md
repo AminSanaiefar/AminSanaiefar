@@ -7,7 +7,7 @@ I'm currently learning Django and DRF frameworks.<br>
 i Love to learn new stuff and new technologies.<br>
 Contact me via email : 📬aminsanaiefar@gmial.com<br>
 Inrested in Music🎵 & Space🌌<br>
-Treat others the way you would like to be treated.<br>
+<strong>Treat others the way you would like to be treated.</strong><br>
 
 
 ## 🌐 Socials:

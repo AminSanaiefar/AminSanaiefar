@@ -1,5 +1,13 @@
 # 💫 About Me:
-👋Hello there!<br>I'm a python lover.<br>currently working on my resume for making it better!<br>I'm currently learning Django and DRF frameworks.<br>📧my email: aminsanaiefar@gmail.com
+👋Hello there!<br>
+a 🐍python lover!<br>
+I'm working on my resume for making it better!<br>
+I'm currently learning Django and DRF frameworks.<br>
+<br>
+i Love to learn new stuff and new technologies.<br>
+Inrested in Music🎵 & Space🌌<br>
+Contact me via email : 📬aminsanaiefar@gmial.com<br>
+<h3>Treat others the way you would like to be treated.<h3><br>
 
 
 ## 🌐 Socials:

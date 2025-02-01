@@ -3,7 +3,7 @@
 a 🐍python lover!<br>
 I'm working on my resume for making it better!<br>
 I'm currently learning Django and DRF frameworks.<br>
-i Love to learn new stuff and new technologies.<br>
+i Love to learn new stuffs and new technologies.<br>
 Inrested in Music🎵 & Space🌌 <strong>Treat others the way you would like to be treated.</strong><br>
 Contact me via email : 📬aminsanaiefar@gmial.com<br>
 
